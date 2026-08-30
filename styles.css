@@ -223,6 +223,16 @@ body {
 	filter: drop-shadow(0 0 20px var(--glow-cyan));
 }
 
+.portfolio-logo img {
+	border-radius: 100%;
+	height: 100px;
+}
+
+.small-portfolio-logo img {
+	border-radius: 100%;
+	height: 32px;
+}
+
 .brand-name {
 	font-family: 'Quicksand', sans-serif;
 	font-size: 52px;
