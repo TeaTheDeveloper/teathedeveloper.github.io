@@ -224,12 +224,12 @@ function switchTab(btn, tabId) {
    document.getElementById(tabId).classList.add('active');
 }
 
-// Gallery Filter
-function filterGallery(category, btn) {
+// Projects Filter
+function filterProjects(category, btn) {
    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
    btn.classList.add('active');
 
-   const items = document.querySelectorAll('.gallery-item');
+   const items = document.querySelectorAll('.projects-item');
    items.forEach(item => {
       if (category === 'all' || item.dataset.category === category) {
          item.style.display = 'block';
