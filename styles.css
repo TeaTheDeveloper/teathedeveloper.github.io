@@ -1554,6 +1554,7 @@ body {
 .contact-details p {
 	color: #ffffff;
 	font-size: 15px;
+	cursor: pointer;
 }
 
 /* Exit animations */
