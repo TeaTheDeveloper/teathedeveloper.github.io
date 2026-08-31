@@ -803,10 +803,15 @@
 
         <!-- Footer -->
         <footer class="footer" id="mainFooter">
-            <p>© 2026 Covenant T. Junior. Crafted with passion. Design by <a href="https://x.com/TeaTheDeveloper" target="_blank">TeaTheDeveloper</a></p>
+            <p>© <span id="current-year"></span> Covenant T. Junior. Crafted with passion. Design by <a href="https://x.com/TeaTheDeveloper" target="_blank">TeaTheDeveloper</a></p>
         </footer>
     </div>
     <script src="scripts.js"></script>
+
+<script>
+document.getElementById('current-year').textContent = new Date().getFullYear();
+</script>
+
 </body>
 
 </html>
