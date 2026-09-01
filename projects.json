@@ -1,0 +1,380 @@
+[
+    {
+        "name": "2048 Puzzle Game",
+        "repo": "https://github.com/TeaTheDeveloper/2048-Puzzle-Game",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1611996575749-79a3a250f948?w=640&auto=format&fit=crop&q=60",
+        "description": "Game Development · Interactive UI · JavaScript"
+    },
+    {
+        "name": "Advanced Flutter",
+        "repo": "https://github.com/TeaTheDeveloper/advanced_flutter",
+        "category": "mobile",
+        "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=640&auto=format&fit=crop&q=60",
+        "description": "Flutter · Dart · Advanced Mobile Development"
+    },
+    {
+        "name": "Animate.css",
+        "repo": "https://github.com/TeaTheDeveloper/animate.css",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=640&auto=format&fit=crop&q=60",
+        "description": "CSS · Animation · Frontend UI"
+    },
+    {
+        "name": "Audio Sanitizer",
+        "repo": "https://github.com/TeaTheDeveloper/audio-sanitizer",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=640&auto=format&fit=crop&q=60",
+        "description": "Audio Processing · Web Development"
+    },
+    {
+        "name": "Coffee App",
+        "repo": "https://github.com/TeaTheDeveloper/coffee",
+        "category": "mobile",
+        "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=640&auto=format&fit=crop&q=60",
+        "description": "Flutter · Dart · Animation · Sound"
+    },
+    {
+        "name": "Context App",
+        "repo": "https://github.com/TeaTheDeveloper/contextapp",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=640&auto=format&fit=crop&q=60",
+        "description": "React · JavaScript · Frontend Development"
+    },
+    {
+        "name": "Crypto Bot Dashboard",
+        "repo": "https://github.com/TeaTheDeveloper/crypto-bot-dashboard",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=640&auto=format&fit=crop&q=60",
+        "description": "React · Dashboard · Cryptocurrency"
+    },
+    {
+        "name": "CSV Dataset Extraction and Representation",
+        "repo": "https://github.com/TeaTheDeveloper/csv-dataset-extraction-and-representation",
+        "category": "data",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=640&auto=format&fit=crop&q=60",
+        "description": "CSV · Data Processing · Dataset Representation"
+    },
+    {
+        "name": "Darkflow",
+        "repo": "https://github.com/TeaTheDeveloper/darkflow",
+        "category": "data",
+        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=640&auto=format&fit=crop&q=60",
+        "description": "Python · TensorFlow · OpenCV · Object Detection"
+    },
+    {
+        "name": "Discord Bot Frontend",
+        "repo": "https://github.com/TeaTheDeveloper/discord-bot-frontend",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1614680376573-df3480f0c6ff?w=640&auto=format&fit=crop&q=60",
+        "description": "React · Material UI · Dashboard Interface"
+    },
+    {
+        "name": "Message Encryption",
+        "repo": "https://github.com/TeaTheDeveloper/encryption-decryption-of-message",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=640&auto=format&fit=crop&q=60",
+        "description": "PHP · Encryption · Decryption · Security"
+    },
+    {
+        "name": "Fibonacci Sequence",
+        "repo": "https://github.com/TeaTheDeveloper/fibonacci_sequence",
+        "category": "mobile",
+        "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=640&auto=format&fit=crop&q=60",
+        "description": "Flutter · Dart · Algorithms"
+    },
+    {
+        "name": "Flask Hello World",
+        "repo": "https://github.com/TeaTheDeveloper/flask-hello-world",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=640&auto=format&fit=crop&q=60",
+        "description": "Python · Flask · Web Development"
+    },
+    {
+        "name": "Flutter WebView",
+        "repo": "https://github.com/TeaTheDeveloper/flutter_web_view",
+        "category": "mobile",
+        "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=640&auto=format&fit=crop&q=60",
+        "description": "Flutter · Dart · WebView · Mobile"
+    },
+    {
+        "name": "GistApp",
+        "repo": "https://github.com/TeaTheDeveloper/gistapp.ga",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=640&auto=format&fit=crop&q=60",
+        "description": "PHP · Web Application · Content Platform"
+    },
+    {
+        "name": "Glass Morphism Card",
+        "repo": "https://github.com/TeaTheDeveloper/glass-morphism-card",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1518005020951-eccb494ad742?w=640&auto=format&fit=crop&q=60",
+        "description": "React · CSS · UI Design"
+    },
+    {
+        "name": "Guess Game",
+        "repo": "https://github.com/TeaTheDeveloper/guessing_game",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=640&auto=format&fit=crop&q=60",
+        "description": "Rust · Cargo · Terminal Application"
+    },
+    {
+        "name": "Hello Cargo",
+        "repo": "https://github.com/TeaTheDeveloper/hello_cargo",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=640&auto=format&fit=crop&q=60",
+        "description": "Rust · Cargo · Systems Programming"
+    },
+    {
+        "name": "Laravel To-Do List",
+        "repo": "https://github.com/TeaTheDeveloper/Laravel-To-do-List",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=640&auto=format&fit=crop&q=60",
+        "description": "PHP · Laravel · JavaScript · CRUD"
+    },
+    {
+        "name": "Animal Encyclopedia",
+        "repo": "https://github.com/TeaTheDeveloper/list_of_animals",
+        "category": "data",
+        "image": "https://images.unsplash.com/photo-1456926631375-92c8ce872def?w=640&auto=format&fit=crop&q=60",
+        "description": "JSON · Structured Data · API-ready Dataset"
+    },
+    {
+        "name": "Motion Detector",
+        "repo": "https://github.com/TeaTheDeveloper/motion-detector",
+        "category": "data",
+        "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=640&auto=format&fit=crop&q=60",
+        "description": "Motion Detection · Computer Vision · Image Processing"
+    },
+    {
+        "name": "MT5 Terminal Logs",
+        "repo": "https://github.com/TeaTheDeveloper/mt5_terminal_logs",
+        "category": "data",
+        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=640&auto=format&fit=crop&q=60",
+        "description": "Trading Systems · Market Data · Analysis"
+    },
+    {
+        "name": "International Telephone Input",
+        "repo": "https://github.com/TeaTheDeveloper/multinational-telephone-input",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1523206489230-c012c64b2b48?w=640&auto=format&fit=crop&q=60",
+        "description": "JavaScript · Validation · International Phone Numbers"
+    },
+    {
+        "name": "Node.js",
+        "repo": "https://github.com/TeaTheDeveloper/node",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=640&auto=format&fit=crop&q=60",
+        "description": "Node.js · JavaScript · Backend Development"
+    },
+    {
+        "name": "Note App",
+        "repo": "https://github.com/TeaTheDeveloper/note_app",
+        "category": "mobile",
+        "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=640&auto=format&fit=crop&q=60",
+        "description": "Flutter · Dart · Notes · Mobile"
+    },
+    {
+        "name": "Object Owl",
+        "repo": "https://github.com/TeaTheDeveloper/object_owl",
+        "category": "mobile",
+        "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=640&auto=format&fit=crop&q=60",
+        "description": "Flutter · Dart · Cross-Platform Application"
+    },
+    {
+        "name": "Ollama App",
+        "repo": "https://github.com/TeaTheDeveloper/ollama-app-1",
+        "category": "data",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=640&auto=format&fit=crop&q=60",
+        "description": "AI · Local LLM · Ollama"
+    },
+    {
+        "name": "Passphrase Generator",
+        "repo": "https://github.com/TeaTheDeveloper/passphrase-generator",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=640&auto=format&fit=crop&q=60",
+        "description": "JavaScript · Security · Password Generation"
+    },
+    {
+        "name": "Paystack Banklist API",
+        "repo": "https://github.com/TeaTheDeveloper/paystack-banklist-api",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=640&auto=format&fit=crop&q=60",
+        "description": "API Integration · Fintech · JSON"
+    },
+    {
+        "name": "PDF to Thumbnail",
+        "repo": "https://github.com/TeaTheDeveloper/pdf-to-thumbnail",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=640&auto=format&fit=crop&q=60",
+        "description": "PHP · PDF Processing · Image Generation"
+    },
+    {
+        "name": "PHP Projects",
+        "repo": "https://github.com/TeaTheDeveloper/php",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=640&auto=format&fit=crop&q=60",
+        "description": "PHP · Web Development · Backend Programming"
+    },
+    {
+        "name": "PHP WebRTC",
+        "repo": "https://github.com/TeaTheDeveloper/PHP-WebRTC",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=640&auto=format&fit=crop&q=60",
+        "description": "PHP · WebRTC · Real-Time Communication"
+    },
+    {
+        "name": "Picture-in-Picture",
+        "repo": "https://github.com/TeaTheDeveloper/picture-in-picture",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=640&auto=format&fit=crop&q=60",
+        "description": "JavaScript · Media API · Web Application"
+    },
+    {
+        "name": "Point Visor",
+        "repo": "https://github.com/TeaTheDeveloper/point_visor",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=640&auto=format&fit=crop&q=60",
+        "description": "Web Development · Interactive Application"
+    },
+    {
+        "name": "Webpage Preloader",
+        "repo": "https://github.com/TeaTheDeveloper/preloader",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=640&auto=format&fit=crop&q=60",
+        "description": "HTML · CSS · Animation · UI"
+    },
+    {
+        "name": "Quote List",
+        "repo": "https://github.com/TeaTheDeveloper/quote_list",
+        "category": "mobile",
+        "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=640&auto=format&fit=crop&q=60",
+        "description": "Flutter · Dart · Mobile Application"
+    },
+    {
+        "name": "React Reading List",
+        "repo": "https://github.com/TeaTheDeveloper/react-reading-list",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=640&auto=format&fit=crop&q=60",
+        "description": "React · JavaScript · Web Application"
+    },
+    {
+        "name": "PHP Image Resizer",
+        "repo": "https://github.com/TeaTheDeveloper/resize-image-with-php",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1545235617-9465d2a55698?w=640&auto=format&fit=crop&q=60",
+        "description": "PHP · Image Processing · POST API"
+    },
+    {
+        "name": "Safe AI",
+        "repo": "https://github.com/TeaTheDeveloper/safe_ai",
+        "category": "data",
+        "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=640&auto=format&fit=crop&q=60",
+        "description": "Artificial Intelligence · AI Assistant · Privacy"
+    },
+    {
+        "name": "Scientific Calculator",
+        "repo": "https://github.com/TeaTheDeveloper/sci",
+        "category": "data",
+        "image": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=640&auto=format&fit=crop&q=60",
+        "description": "Mathematics · Scientific Computing · Calculator"
+    },
+    {
+        "name": "Signature Pad",
+        "repo": "https://github.com/TeaTheDeveloper/signature-pad",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=640&auto=format&fit=crop&q=60",
+        "description": "JavaScript · Canvas · Digital Signature"
+    },
+    {
+        "name": "Speech Recognition",
+        "repo": "https://github.com/TeaTheDeveloper/speech-recognition",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=640&auto=format&fit=crop&q=60",
+        "description": "Speech-to-Text · Text-to-Speech · Web APIs"
+    },
+    {
+        "name": "Speech Recognition App",
+        "repo": "https://github.com/TeaTheDeveloper/speech-recognition-app",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1589254065878-42c9da997008?w=640&auto=format&fit=crop&q=60",
+        "description": "React · Speech Recognition · Text-to-Speech"
+    },
+    {
+        "name": "Star Wars",
+        "repo": "https://github.com/TeaTheDeveloper/star-wars",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=640&auto=format&fit=crop&q=60",
+        "description": "React · JavaScript · Movie Data"
+    },
+    {
+        "name": "Sushi Restaurant",
+        "repo": "https://github.com/TeaTheDeveloper/sushi_restaurant",
+        "category": "mobile",
+        "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?w=640&auto=format&fit=crop&q=60",
+        "description": "Flutter · Dart · Restaurant UI"
+    },
+    {
+        "name": "Tea Blog",
+        "repo": "https://github.com/TeaTheDeveloper/tea-blog",
+        "category": "content",
+        "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=640&auto=format&fit=crop&q=60",
+        "description": "Blog · Content · React · Web Development"
+    },
+    {
+        "name": "Tea Transfer",
+        "repo": "https://github.com/TeaTheDeveloper/tea-transfer",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1556740749-887f6717d7e4?w=640&auto=format&fit=crop&q=60",
+        "description": "Web Application · Transfer · Development"
+    },
+    {
+        "name": "Developer Portfolio",
+        "repo": "https://github.com/TeaTheDeveloper/teathedeveloper.github.io",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=640&auto=format&fit=crop&q=60",
+        "description": "GitHub Pages · HTML · CSS · JavaScript"
+    },
+    {
+        "name": "To-Do List",
+        "repo": "https://github.com/TeaTheDeveloper/todo-list",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=640&auto=format&fit=crop&q=60",
+        "description": "Web Application · Task Management · UI"
+    },
+    {
+        "name": "JWT Verification",
+        "repo": "https://github.com/TeaTheDeveloper/verify-JWT-without-PHP-JWT-Library",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=640&auto=format&fit=crop&q=60",
+        "description": "PHP · JWT · Authentication · Security"
+    },
+    {
+        "name": "Virtual Dice Roller",
+        "repo": "https://github.com/TeaTheDeveloper/Virtual-Dice-Roller",
+        "category": "mobile",
+        "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=640&auto=format&fit=crop&q=60",
+        "description": "Mobile · Touch Interaction · Game"
+    },
+    {
+        "name": "Web Calculator",
+        "repo": "https://github.com/TeaTheDeveloper/Web-Calculator",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1587145820266-a5951ee6f620?w=640&auto=format&fit=crop&q=60",
+        "description": "HTML5 · JavaScript · jQuery"
+    },
+    {
+        "name": "WebRTC",
+        "repo": "https://github.com/TeaTheDeveloper/WebRTC",
+        "category": "web",
+        "image": "https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?w=640&auto=format&fit=crop&q=60",
+        "description": "WebRTC · Firebase · Real-Time Communication"
+    },
+    {
+        "name": "World Time",
+        "repo": "https://github.com/TeaTheDeveloper/world_time",
+        "category": "mobile",
+        "image": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=640&auto=format&fit=crop&q=60",
+        "description": "Flutter · Dart · Time Zones · Mobile"
+    }
+]

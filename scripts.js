@@ -239,3 +239,32 @@ function filterProjects(category, btn) {
       }
    });
 }
+
+// Projects list
+fetch("projects.json")
+   .then(response => response.json())
+   .then(projects => {
+      const grid = document.getElementById("projects-grid");
+
+      projects.forEach(project => {
+         const item = document.createElement("div");
+
+         item.className = "projects-item";
+         item.dataset.category = project.category;
+
+         item.innerHTML = `
+                <img src="${project.image}" alt="${project.name}" loading="lazy">
+                <div class="projects-overlay">
+                    <h4>${project.name}</h4>
+                    <p>${project.description}</p>
+                </div>
+            `;
+
+         item.onclick = () => {
+            window.open(project.repo, "_blank");
+         };
+
+         grid.appendChild(item);
+      });
+   })
+   .catch(error => console.error("Failed to load projects:", error));
